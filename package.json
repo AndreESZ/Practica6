@@ -1,0 +1,11 @@
+{
+  "name": "practica5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "angular-route.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
